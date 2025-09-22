@@ -37,6 +37,7 @@ Solved DSA Questions
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Tushar9898/DSA/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/Tushar9898/DSA/tree/master/0135-candy) |
 ## Greedy
 |  |
