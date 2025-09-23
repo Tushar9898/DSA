@@ -43,4 +43,12 @@ Solved DSA Questions
 |  |
 | ------- |
 | [0135-candy](https://github.com/Tushar9898/DSA/tree/master/0135-candy) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/Tushar9898/DSA/tree/master/0165-compare-version-numbers) |
+## String
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/Tushar9898/DSA/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
