@@ -51,4 +51,13 @@ Solved DSA Questions
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Tushar9898/DSA/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Tushar9898/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+## Hash Table
+|  |
+| ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Tushar9898/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+## Math
+|  |
+| ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Tushar9898/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 <!---LeetCode Topics End-->
