@@ -67,10 +67,12 @@ Solved DSA Questions
 | [0057-insert-interval](https://github.com/Tushar9898/DSA/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/Tushar9898/DSA/tree/master/0135-candy) |
 | [0794-swim-in-rising-water](https://github.com/Tushar9898/DSA/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Tushar9898/DSA/tree/master/1612-avoid-flood-in-the-city) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/Tushar9898/DSA/tree/master/0135-candy) |
+| [1612-avoid-flood-in-the-city](https://github.com/Tushar9898/DSA/tree/master/1612-avoid-flood-in-the-city) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Solved DSA Questions
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tushar9898/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tushar9898/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1612-avoid-flood-in-the-city](https://github.com/Tushar9898/DSA/tree/master/1612-avoid-flood-in-the-city) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +98,7 @@ Solved DSA Questions
 | [0450-delete-node-in-a-bst](https://github.com/Tushar9898/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tushar9898/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/Tushar9898/DSA/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Tushar9898/DSA/tree/master/1612-avoid-flood-in-the-city) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +115,7 @@ Solved DSA Questions
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Tushar9898/DSA/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Tushar9898/DSA/tree/master/1612-avoid-flood-in-the-city) |
 ## Matrix
 |  |
 | ------- |
