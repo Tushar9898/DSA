@@ -68,6 +68,7 @@ Solved DSA Questions
 | [0135-candy](https://github.com/Tushar9898/DSA/tree/master/0135-candy) |
 | [0794-swim-in-rising-water](https://github.com/Tushar9898/DSA/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Tushar9898/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Tushar9898/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Greedy
 |  |
 | ------- |
@@ -120,4 +121,8 @@ Solved DSA Questions
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Tushar9898/DSA/tree/master/0794-swim-in-rising-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Tushar9898/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->
