@@ -69,6 +69,7 @@ Solved DSA Questions
 | [0794-swim-in-rising-water](https://github.com/Tushar9898/DSA/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Tushar9898/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Tushar9898/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tushar9898/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Solved DSA Questions
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tushar9898/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tushar9898/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Solved DSA Questions
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tushar9898/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tushar9898/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +128,16 @@ Solved DSA Questions
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Tushar9898/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tushar9898/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tushar9898/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tushar9898/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
