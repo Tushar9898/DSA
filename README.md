@@ -67,6 +67,7 @@ Solved DSA Questions
 | [0057-insert-interval](https://github.com/Tushar9898/DSA/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/Tushar9898/DSA/tree/master/0135-candy) |
 | [0794-swim-in-rising-water](https://github.com/Tushar9898/DSA/tree/master/0794-swim-in-rising-water) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tushar9898/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Tushar9898/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Tushar9898/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tushar9898/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -84,11 +85,13 @@ Solved DSA Questions
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Tushar9898/DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tushar9898/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tushar9898/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tushar9898/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tushar9898/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tushar9898/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Tushar9898/DSA/tree/master/1612-avoid-flood-in-the-city) |
 ## Math
 |  |
@@ -111,6 +114,7 @@ Solved DSA Questions
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tushar9898/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tushar9898/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Union Find
 |  |
 | ------- |
