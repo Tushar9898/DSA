@@ -86,6 +86,7 @@ Solved DSA Questions
 | [0165-compare-version-numbers](https://github.com/Tushar9898/DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tushar9898/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tushar9898/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tushar9898/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Solved DSA Questions
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tushar9898/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tushar9898/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tushar9898/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search Tree
 |  |
@@ -139,9 +141,18 @@ Solved DSA Questions
 ## Combinatorics
 |  |
 | ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tushar9898/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tushar9898/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tushar9898/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Simulation
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tushar9898/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tushar9898/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
