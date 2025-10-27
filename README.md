@@ -65,6 +65,7 @@ Solved DSA Questions
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Tushar9898/DSA/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Tushar9898/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/Tushar9898/DSA/tree/master/0135-candy) |
 | [0794-swim-in-rising-water](https://github.com/Tushar9898/DSA/tree/master/0794-swim-in-rising-water) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tushar9898/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -103,6 +104,7 @@ Solved DSA Questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Tushar9898/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/Tushar9898/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tushar9898/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/Tushar9898/DSA/tree/master/0794-swim-in-rising-water) |
@@ -129,6 +131,7 @@ Solved DSA Questions
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Tushar9898/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0794-swim-in-rising-water](https://github.com/Tushar9898/DSA/tree/master/0794-swim-in-rising-water) |
 ## Prefix Sum
 |  |
