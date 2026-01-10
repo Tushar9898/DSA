@@ -67,6 +67,7 @@ Solved DSA Questions
 | [0057-insert-interval](https://github.com/Tushar9898/DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Tushar9898/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/Tushar9898/DSA/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Tushar9898/DSA/tree/master/0169-majority-element) |
 | [0794-swim-in-rising-water](https://github.com/Tushar9898/DSA/tree/master/0794-swim-in-rising-water) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tushar9898/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Tushar9898/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -92,6 +93,7 @@ Solved DSA Questions
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tushar9898/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/Tushar9898/DSA/tree/master/0169-majority-element) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tushar9898/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tushar9898/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Tushar9898/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -117,6 +119,7 @@ Solved DSA Questions
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tushar9898/DSA/tree/master/0169-majority-element) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tushar9898/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tushar9898/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Union Find
@@ -158,4 +161,12 @@ Solved DSA Questions
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tushar9898/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tushar9898/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tushar9898/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
